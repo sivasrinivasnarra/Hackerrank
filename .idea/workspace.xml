@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ff34053-f62e-4fa6-863c-0613f1689e1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Hackerrank_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2uJtKooPMcTqJGUscKX6Nk7uoOK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10.addition.executor": "Run",
+    "Python.11.area and perimeter of the circle.executor": "Run",
+    "Python.12.swap two numbers.executor": "Run",
+    "Python.13.swap without using temporary variable.executor": "Debug",
+    "Python.14.days to years, weeks and days.executor": "Run",
+    "Python.15.Fahrenheit to Celsius.executor": "Run",
+    "Python.16.even or odd.executor": "Run",
+    "Python.20.vowel or consonant.executor": "Run",
+    "Python.2Print the following string:.executor": "Run",
+    "Python.4.accept integer from user and double the value.executor": "Run",
+    "Python.5.power of a number.executor": "Run",
+    "Python.6.volume of a sphere.executor": "Run",
+    "Python.7.calculate his total salary.executor": "Run",
+    "Python.8.amount of a meal purchased at a restaurant.executor": "Run",
+    "Python.9.square root.executor": "Run",
+    "Python.Print the following string:.executor": "Run",
+    "Python.Print the following string:2.executor": "Run",
+    "Python.Print the following string:3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ff34053-f62e-4fa6-863c-0613f1689e1a" name="Changes" comment="" />
+      <created>1741978444442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741978444442</updated>
+    </task>
+    <servers />
+  </component>
+</project>
